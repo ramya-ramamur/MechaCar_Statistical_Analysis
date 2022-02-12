@@ -1,3 +1,5 @@
+A statistical analysis using R to review the production data for insights for AutosRUs’ newest prototype, the MechaCar. 
+
 # MechaCar_Statistical_Analysis
 
 # Overview
