@@ -12,7 +12,7 @@ A statistical analysis of AutosRUs’ newest prototype, the MechaCar, to review 
 
 # Resources
 Data Sources:
-  * MechCar_mpg.csv
+  * [MechCar_mpg.csv](https://github.com/ramya-ramamur/MechaCar_Statistical_Analysis/blob/main/Resources/MechaCar_mpg.csv)
   * Suspension_Coil.csv
 Software/Libraries: RStudio-2021.09.2-382
 
