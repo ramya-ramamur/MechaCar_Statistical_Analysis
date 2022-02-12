@@ -11,10 +11,11 @@ A statistical analysis of AutosRUs’ newest prototype, the MechaCar, to review 
 * Additional study reommendation - Design a statistical study to compare vehicle performance of the MechaCar vehicles against vehicles from other manufacturers. 
 
 # Resources
-Data Sources:
+**Data Sources:**
   * [MechCar_mpg.csv](https://github.com/ramya-ramamur/MechaCar_Statistical_Analysis/blob/main/Resources/MechaCar_mpg.csv)
-  * [Suspension_Coil.csv] (https://github.com/ramya-ramamur/MechaCar_Statistical_Analysis/blob/main/Resources/Suspension_Coil.csv)
-Software/Libraries: RStudio-2021.09.2-382
+  * [Suspension_Coil.csv](https://github.com/ramya-ramamur/MechaCar_Statistical_Analysis/blob/main/Resources/Suspension_Coil.csv)
+
+**Software/Libraries:** RStudio-2021.09.2-382
 
 # Results
 
